@@ -1,3 +1,4 @@
+Material for a one day workshop, first held at the [DComm](http://www.dcomm.eu/) meeting in Jena in October 2018.
 
 
 Video Clip Making Primer
